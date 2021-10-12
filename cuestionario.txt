@@ -1,8 +1,14 @@
 En tus palabras, ¿Qué es internet?
+R: Conjunto descentralizado de redes de comunicaciones interconectadas, que utilizan la familia de protocolos TCP/IP, lo cual garantiza que las redes físicas heterogéneas que la componen constituyen una red lógica única de alcance mundial.
 Describe los medios físicos y de propagación de ondas por los que se transmite la información en internet.
+R: A través de la red con una serie de reglas llamadas protocolos llamados TCP / IP
 ¿Cómo se organiza internet? Habla de las direcciones IP y los DNS.
+R: Internet no es una red centralizada ni está regida por un solo organismo. Su estructura es semejante a una tela de araña en la cual unas redes se conectan con otras. Es controlada por el IP y el DNS asigna nombres a los elementos
 Describe el procedimiento por el cual una canción de Spotify llega del servidor de la compañía a tu celular.
+Es dirigido por el IP.
 Describe los protocolos que existen en internet, en específico HTTP y HTML
+HTTP: Permite las transferencias de información a través de archivos en la World Wide Web.
 En dos párrafos cuéntanos lo que aprendiste sobre encriptación y llaves públicas.
+
 En dos párrafos cuéntanos lo que aprendiste sobre cómo protegerte de los criminales en internet.
 ¿Cómo funciona la búsqueda de google?
