@@ -1,14 +1,16 @@
-En tus palabras, ¿Qué es internet?
-R: Conjunto descentralizado de redes de comunicaciones interconectadas, que utilizan la familia de protocolos TCP/IP, lo cual garantiza que las redes físicas heterogéneas que la componen constituyen una red lógica única de alcance mundial.
-Describe los medios físicos y de propagación de ondas por los que se transmite la información en internet.
-R: A través de la red con una serie de reglas llamadas protocolos llamados TCP / IP
-¿Cómo se organiza internet? Habla de las direcciones IP y los DNS.
-R: Internet no es una red centralizada ni está regida por un solo organismo. Su estructura es semejante a una tela de araña en la cual unas redes se conectan con otras. Es controlada por el IP y el DNS asigna nombres a los elementos
-Describe el procedimiento por el cual una canción de Spotify llega del servidor de la compañía a tu celular.
+1. En tus palabras, ¿Qué es internet?
+Conjunto descentralizado de redes de comunicaciones interconectadas, que utilizan la familia de protocolos TCP/IP, lo cual garantiza que las redes físicas heterogéneas que la componen constituyen una red lógica única de alcance mundial.
+2. Describe los medios físicos y de propagación de ondas por los que se transmite la información en internet.
+A través de la red con una serie de reglas llamadas protocolos llamados TCP / IP
+3. ¿Cómo se organiza internet? Habla de las direcciones IP y los DNS.
+Internet no es una red centralizada ni está regida por un solo organismo. Su estructura es semejante a una tela de araña en la cual unas redes se conectan con otras. Es controlada por el IP y el DNS asigna nombres a los elementos
+4. Describe el procedimiento por el cual una canción de Spotify llega del servidor de la compañía a tu celular.
 Es dirigido por el IP.
-Describe los protocolos que existen en internet, en específico HTTP y HTML
+5. Describe los protocolos que existen en internet, en específico HTTP y HTML
 HTTP: Permite las transferencias de información a través de archivos en la World Wide Web. HTML: asigna el contenido de paginas web.
-En dos párrafos cuéntanos lo que aprendiste sobre encriptación y llaves públicas.
-Lo conozco por el tema de seguridad y privacidad. Por ejemplo, en WhatsApp esta el end to end encyption y en otras plataformas. 
-En dos párrafos cuéntanos lo que aprendiste sobre cómo protegerte de los criminales en internet.
-¿Cómo funciona la búsqueda de google?
+6. En dos párrafos cuéntanos lo que aprendiste sobre encriptación y llaves públicas.
+La encriptación es un metodo de seguridad para proteger tus archivos. Lo que hace es "ponerle un candado" y con **la llave**, puedes abrir dicho documento protegido por la encriptación.
+7. En dos párrafos cuéntanos lo que aprendiste sobre cómo protegerte de los criminales en internet.
+Pues creando contraseñas seguras, siendo muy precavidos con la información que uno sube a internet, utilizando un antivirus y no descargar aplicaciones sospechosas.   
+8. ¿Cómo funciona la búsqueda de google?
+Una vez que descubrimos la URL de una página, la visitamos (rastreamos) para averiguar qué contiene. Renderizamos la página y analizamos el contenido textual y no textual, además del diseño visual general, para decidir cómo mostrarla en los resultados de la Búsqueda.
