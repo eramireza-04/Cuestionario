@@ -7,8 +7,8 @@ R: Internet no es una red centralizada ni está regida por un solo organismo. Su
 Describe el procedimiento por el cual una canción de Spotify llega del servidor de la compañía a tu celular.
 Es dirigido por el IP.
 Describe los protocolos que existen en internet, en específico HTTP y HTML
-HTTP: Permite las transferencias de información a través de archivos en la World Wide Web.
+HTTP: Permite las transferencias de información a través de archivos en la World Wide Web. HTML: asigna el contenido de paginas web.
 En dos párrafos cuéntanos lo que aprendiste sobre encriptación y llaves públicas.
-
+Lo conozco por el tema de seguridad y privacidad. Por ejemplo, en WhatsApp esta el end to end encyption y en otras plataformas. 
 En dos párrafos cuéntanos lo que aprendiste sobre cómo protegerte de los criminales en internet.
 ¿Cómo funciona la búsqueda de google?
